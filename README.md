@@ -2,4 +2,6 @@
 
 Ce fichier a été édité sur Github
 
+Et maintenant en local
+
 ## Pourquoi git?
